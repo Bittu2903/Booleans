@@ -1,7 +1,8 @@
+[project]
 name = "Booleans"
 version = "0.1.0"
 description = "A micro-library for returning boolean values explicitly with Booleans.true() and Booleans.false()."
-authors = [{ name = "Bittu Singh", email = "bittusinghiskingh@gmail.com" }]
+authors = [{ name = "Bittu Singh", email = "bittusinghtech@gmail.com" }]
 license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">=3.7"
